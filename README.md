@@ -19,5 +19,5 @@ I'm an Informatics student at Institut Teknologi Kalimantan and an Assistant Lec
 
 
 **📫 How to reach me:**
-- LinkedIn: [Tautkan URL LinkedIn Anda di sini]
-- Email: [Tautkan Email Anda di sini]
+- LinkedIn: www.linkedin.com/in/sulthan-farizan-fawwaz-3aab62364
+- Email: farizanfawwaz54@gmail.com
