@@ -9,7 +9,6 @@ I'm an Informatics student at Institut Teknologi Kalimantan and an Assistant Lec
 
 **🏆 Achievements & Contributions:**
 - 🏅 Google Student Ambassador Batch 2
-- 💻 **XERJ Corpus Hub Contributor** 
 - [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Sulthan-eng/badge.svg)](https://hub.xerj.org/contributors/Sulthan-eng)
 
 
